@@ -7,7 +7,9 @@ authors = [
     { name = "Jake Townsend", email = "j@twnsnd.net" }
 ]
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "kaggle>=2.2.5",
+]
 
 [project.scripts]
 neu-det = "neu_det:main"
