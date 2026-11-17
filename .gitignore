@@ -9,5 +9,7 @@ wheels/
 # Virtual environments
 .venv
 
-# Datasets
+# Datasets, Splits, Configs
 data/
+splits/
+configs/
